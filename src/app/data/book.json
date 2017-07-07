@@ -1,0 +1,24 @@
+[
+    {
+    "book" : 
+
+            {
+            "title" : "High Art on the Low",
+            "author" : "Rafa Benderfunk",
+            "description" : "it was the best of times...",
+            "summary" : "well, what a summary...",
+            "tags" : "art, new, science, design",
+            "image" : "http://www.mensahdesigns.com/images/logoTeeth.png",
+            "price" : "49.99",
+            "isbn" : "1234567891991",
+            "url" : "http://www.mensahdesigns.com",
+            "publisher" : "ruffpages",
+            "year" : "2017",
+            "pagecount" : "501",
+            "reviews" : "great book",
+            "isread" : "false",
+            "isfavorite" : "false",
+            "created_at" : "Tue Dec 20 2016 01:45:24 GMT-0300 (CLST)"
+            }
+    }
+]
